@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1423072826 source:/home/mayur/Desktop/CG/assignment1/controller.cpp
+	"GL/freeglut.h"
+	"GL/gl.h"
+	"controller.h"
+	<math.h>
+
+1423074078 /home/mayur/Desktop/CG/assignment1/controller.h
+	"GL/freeglut.h"
+	"GL/gl.h"
+
+1423068852 source:/home/mayur/Desktop/CG/assignment1/mainfile.cpp
+	"GL/freeglut.h"
+	"GL/gl.h"
+	<stdio.h>
+	<math.h>
+	"controller.h"
+	"view.h"
+	"model.h"
+
+1423069999 /home/mayur/Desktop/CG/assignment1/view.h
+	"GL/freeglut.h"
+	"GL/gl.h"
+
+1423069717 /home/mayur/Desktop/CG/assignment1/model.h
+	"GL/freeglut.h"
+	"GL/gl.h"
+
+1423069687 source:/home/mayur/Desktop/CG/assignment1/model.cpp
+	"GL/freeglut.h"
+	"GL/gl.h"
+	"model.h"
+	<math.h>
+
+1423072916 source:/home/mayur/Desktop/CG/assignment1/view.cpp
+	"GL/freeglut.h"
+	"GL/gl.h"
+	"controller.h"
+	"view.h"
+	"model.h"
+	<stdio.h>
+	<math.h>
+
